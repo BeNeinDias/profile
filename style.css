@@ -35,7 +35,7 @@ p {
   text-align: center;
 }
 
-/*.btn-outline-danger {
+.btn-outline-danger {
   color: #d60808;
   border-color: #d60808;
   border-radius: 4px;
@@ -44,7 +44,7 @@ p {
 .btn-outline-danger:hover {
   color: #5e5e5e;
   border-color: #5e5e5e;
-}*/
+}
 
 #profile {
   border-radius: 50%;
