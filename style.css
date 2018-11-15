@@ -102,6 +102,10 @@ p {
   margin-left: 300px;
 }
 
+#my-crashes {
+  padding-bottom: 60px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
@@ -137,7 +141,7 @@ p {
 .sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 19px;
     color: #DEF7F1;
     display: block;
     font-family: 'Oswald', sans-serif;
